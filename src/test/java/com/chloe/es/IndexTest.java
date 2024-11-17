@@ -27,7 +27,6 @@ import java.io.IOException;
  * @Create 2024/11/17 8:38
  * @Version 1.0
  */
-@Slf4j
 public class IndexTest {
     private RestHighLevelClient client = null;
     private final static String indexName = "user";
