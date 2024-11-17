@@ -1,4 +1,4 @@
-package com.chloe.es;
+package es;
 
 import org.apache.http.HttpHost;
 import org.elasticsearch.client.RestClient;

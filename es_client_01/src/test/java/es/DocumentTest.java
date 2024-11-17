@@ -1,7 +1,6 @@
-package com.chloe.es;
+package es;
 
 import com.chloe.es.entities.User;
-import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.apache.http.HttpHost;
 import org.elasticsearch.action.bulk.BulkRequest;
